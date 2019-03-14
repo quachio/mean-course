@@ -1,0 +1,7 @@
+:host { /* this target the <app-post-list> element */
+  margin-top: 1rem;
+  display: block; /* need to do this to work */
+}
+.info-text {
+  text-align: center;
+}
